@@ -1,0 +1,14 @@
+[project]
+src = "src"
+out = "out"
+dot_env = ".env"
+
+[networks.anvil]
+url = "http://127.0.0.1:8545"
+save_to_db = false
+# prints a warning about the gas associated with the deploying transaction
+prompt_live = true
+# account to be used to deploy the contract
+default_account_name = "anvil0"
+
+# You can view all configuration options at https://cyfrin.github.io/moccasin/all_moccasin_toml_parameters.html
