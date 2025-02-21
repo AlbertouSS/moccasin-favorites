@@ -1,19 +1,2 @@
-# Moccasin Project
-
-🐍 Welcome to your Moccasin project!
-
-## Quickstart
-
-1. Deploy to a fake local network that titanoboa automatically spins up!
-
-```bash
-mox run deploy
-```
-
-2. Run tests
-
-```
-mox test
-```
-
-_For documentation, please run `mox --help` or visit [the Moccasin documentation](https://cyfrin.github.io/moccasin)_
+This is the Cyfrin [course](https://updraft.cyfrin.io/courses/intermediate-python-vyper-smart-contract-development) and this is the [repo](https://github.com/Cyfrin/mox-favorites-cu) of the section
+Take it and become a Vyper devolper, good luck!
