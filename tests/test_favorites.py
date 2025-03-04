@@ -1,9 +1,4 @@
-from script.deploy import deploy_favorites
-import pytest
-
-@pytest.fixture
-def favorites_contract():
-    return deploy_favorites()
+# Tt's not required to import the conftest script, pytest will automatically find it and run it before running the tests.
 
 ''' TEST WITHOUT FIXTURE'''
 # def test_starting_values():
