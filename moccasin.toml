@@ -1,3 +1,5 @@
+# You can view all configuration options at https://cyfrin.github.io/moccasin/all_moccasin_toml_parameters.html
+
 [project]
 src = "src"
 out = "out"
@@ -11,4 +13,4 @@ prompt_live = true
 # account to be used to deploy the contract
 default_account_name = "anvil0"
 
-# You can view all configuration options at https://cyfrin.github.io/moccasin/all_moccasin_toml_parameters.html
+# It was not possible to install foundry-zksync due to an archicheture problem. Thus, skipping those lessons.
